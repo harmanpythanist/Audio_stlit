@@ -10,6 +10,7 @@ openpyxl==3.1.2
 Pillow==9.4.0
 plotly==5.18.0
 puts==0.0.10
+PyAudio==0.2.14
 pydub==0.25.1
 scipy==1.11.4
 smmap==5.0.1
